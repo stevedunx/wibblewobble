@@ -6,6 +6,8 @@ describe Wibblewobble do
   end
 
   it 'does something useful' do
+    puts WibbleWobble::wibble_wobble
     expect(false).to eq(true)
   end
+   
 end
